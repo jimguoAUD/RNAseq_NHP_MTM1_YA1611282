@@ -1,0 +1,11 @@
+
+https://dl.dnanex.us/F/D/PQ0BxbF21fv5Y620x82v2yjBY437fqJXQ5GGQK18/2_S3_R1_001_Macaca_12_rc_tag_RTC_count.txt 
+https://dl.dnanex.us/F/D/76Y6bV0FJXx9ygV4k5pP35jXvQ5B1f0p0yKPXfg1/2_S3_R1_001_rAAV_hMTM1_12_rc_RTC_count.txt 
+https://dl.dnanex.us/F/D/51qk3v8JgQQz3PJ2bFkV6vXBGjzq8F6B09gyy211/4_S1_R1_001_Macaca_12_rc_tag_RTC_count.txt 
+https://dl.dnanex.us/F/D/KK8kJG5Jqkbp0k6bvQb1gQpV5bz1FV6q09b3xGb7/4_S1_R1_001_rAAV_hMTM1_12_rc_RTC_count.txt 
+https://dl.dnanex.us/F/D/55Y7XgFXVX7xyqJJypV5K8pvb25f7vfqfJpXG1qG/8_S4_R1_001_Macaca_12_rc_tag_RTC_count.txt 
+https://dl.dnanex.us/F/D/pbgF6x44b3jFjQF4jQbyJG1Zyg2B6jQ4BjBB1Zy2/8_S4_R1_001_rAAV_hMTM1_12_rc_RTC_count.txt 
+https://dl.dnanex.us/F/D/b3zfBzz7zQ261VbV1F768YFkFBvBJfyqQ6Yj1B9q/10_S1_R1_001_Macaca_12_rc_tag_RTC_count.txt 
+https://dl.dnanex.us/F/D/Q190X8qY58XgGxXGB8k6vV8Pvpv3JYz4z1fQ1ZKj/10_S1_R1_001_rAAV_hMTM1_12_rc_RTC_count.txt 
+https://dl.dnanex.us/F/D/Jy1kVBbbbbppjQVvXvqjyxyxJvfVY7Yq0PX1gJzv/14_S2_R1_001_Macaca_12_rc_tag_RTC_count.txt 
+https://dl.dnanex.us/F/D/YJ3P57P17j8Q0P7Qbk68y7bgQvBYBk840Yf07kyf/14_S2_R1_001_rAAV_hMTM1_12_rc_RTC_count.txt
