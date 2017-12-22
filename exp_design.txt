@@ -1,0 +1,6 @@
+FileName	Treatment	sample_ID
+bam_file1	dosed	2
+bam_file2	ctrl	4
+bam_file3	dosed	8
+bam_file4	dosed	10
+bam_file5	ctrl	14
