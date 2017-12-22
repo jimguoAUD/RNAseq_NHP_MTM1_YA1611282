@@ -1,0 +1,4 @@
+rAAV-hMTM1.fasta: human MTM1 sequence from plasmid AAVAud-Des-hMTM1.
+macaca_MTM1-201: MTM1 CDS of Macaca_fascicularis, downloaded from Ensemble.
+RTC_count_file.txt: link to download the result of RTC count files for the NHP-MTM1 study
+rtc_counting.sh: grep script written with bash script that was wrapped as an applet on DNAnexus.
